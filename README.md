@@ -54,10 +54,10 @@ Three major program files for this project, with the following names:
 
 Models saved:
 
-1. model_tyler_0.h5 : model tyler without regularizer
-2. model_tyler_1.h5 : model tyler with regularizer
-3. model_jackson_0.h5 : model jackson without regularizer
-4. model_jackson_1.h5 : model jackson with regularizer
+1. model_Tyler_0.h5 : model tyler without regularizer
+2. model_Tyler_1.h5 : model tyler with regularizer
+3. model_Jackson_0.h5 : model jackson without regularizer
+4. model_Jackson_1.h5 : model jackson with regularizer
 
 
 
