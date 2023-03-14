@@ -28,4 +28,9 @@ We design and implement two architectures for this problem. For each architectur
 
 <img width="388" alt="table" src="https://user-images.githubusercontent.com/50993551/224875142-4d9564ed-bebc-4b46-92e0-a5e92ba8a60c.png">
 
+### Confusion Matrix for each model:
+
+<img width="500" alt="cm" src="https://user-images.githubusercontent.com/50993551/224875343-13b617a7-6cd0-4de6-a076-0372d29beb81.png">
+
+
 
