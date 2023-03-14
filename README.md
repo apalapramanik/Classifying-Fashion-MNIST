@@ -13,6 +13,8 @@ We design and implement two architectures for this problem. For each architectur
 ![viz1](https://user-images.githubusercontent.com/50993551/224874039-c75419b9-e775-48f8-8fab-14ede8831545.png)
 
 
+
+
 #### Jackson:
 
 ![viz2](https://user-images.githubusercontent.com/50993551/224874297-c8b45b9d-cf41-4b21-bea1-8135685eb1fa.png)
