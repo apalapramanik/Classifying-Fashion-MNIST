@@ -10,6 +10,8 @@ We design and implement two architectures for this problem. For each architectur
 
 #### Tyler:
 
+![viz1](https://user-images.githubusercontent.com/50993551/224874039-c75419b9-e775-48f8-8fab-14ede8831545.png)
+
 
 #### Jackson:
 
