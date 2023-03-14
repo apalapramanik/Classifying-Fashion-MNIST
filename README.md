@@ -24,4 +24,8 @@ We design and implement two architectures for this problem. For each architectur
 
 <img width="459" alt="plots" src="https://user-images.githubusercontent.com/50993551/224874937-729d394e-4d79-4f23-867b-9b8dfeeea015.png">
 
+### Model Performance on Test Dataset:
+
+<img width="388" alt="table" src="https://user-images.githubusercontent.com/50993551/224875142-4d9564ed-bebc-4b46-92e0-a5e92ba8a60c.png">
+
 
