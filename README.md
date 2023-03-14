@@ -20,3 +20,8 @@ We design and implement two architectures for this problem. For each architectur
 ![viz2](https://user-images.githubusercontent.com/50993551/224874297-c8b45b9d-cf41-4b21-bea1-8135685eb1fa.png)
 
 
+### Hyperparamter Tuning for Tyler:
+
+<img width="459" alt="plots" src="https://user-images.githubusercontent.com/50993551/224874937-729d394e-4d79-4f23-867b-9b8dfeeea015.png">
+
+
